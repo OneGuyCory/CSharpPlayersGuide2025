@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CSharpPlayersGuide2025")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+345e0a81b878af0f4c7abda2aefc6331c6900a9d")]
 [assembly: System.Reflection.AssemblyProductAttribute("CSharpPlayersGuide2025")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CSharpPlayersGuide2025")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
