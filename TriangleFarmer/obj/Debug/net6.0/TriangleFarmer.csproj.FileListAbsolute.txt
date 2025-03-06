@@ -1,0 +1,14 @@
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\TriangleFarmer\bin\Debug\net6.0\TriangleFarmer.exe
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\TriangleFarmer\bin\Debug\net6.0\TriangleFarmer.deps.json
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\TriangleFarmer\bin\Debug\net6.0\TriangleFarmer.runtimeconfig.json
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\TriangleFarmer\bin\Debug\net6.0\TriangleFarmer.dll
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\TriangleFarmer\bin\Debug\net6.0\TriangleFarmer.pdb
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\TriangleFarmer\obj\Debug\net6.0\TriangleFarmer.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\TriangleFarmer\obj\Debug\net6.0\TriangleFarmer.AssemblyInfoInputs.cache
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\TriangleFarmer\obj\Debug\net6.0\TriangleFarmer.AssemblyInfo.cs
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\TriangleFarmer\obj\Debug\net6.0\TriangleFarmer.csproj.CoreCompileInputs.cache
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\TriangleFarmer\obj\Debug\net6.0\TriangleFarmer.dll
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\TriangleFarmer\obj\Debug\net6.0\refint\TriangleFarmer.dll
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\TriangleFarmer\obj\Debug\net6.0\TriangleFarmer.pdb
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\TriangleFarmer\obj\Debug\net6.0\TriangleFarmer.genruntimeconfig.cache
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\TriangleFarmer\obj\Debug\net6.0\ref\TriangleFarmer.dll

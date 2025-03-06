@@ -1,0 +1,14 @@
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\DefenseOfConsolas\bin\Debug\net6.0\DefenseOfConsolas.exe
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\DefenseOfConsolas\bin\Debug\net6.0\DefenseOfConsolas.deps.json
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\DefenseOfConsolas\bin\Debug\net6.0\DefenseOfConsolas.runtimeconfig.json
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\DefenseOfConsolas\bin\Debug\net6.0\DefenseOfConsolas.dll
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\DefenseOfConsolas\bin\Debug\net6.0\DefenseOfConsolas.pdb
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\DefenseOfConsolas\obj\Debug\net6.0\DefenseOfConsolas.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\DefenseOfConsolas\obj\Debug\net6.0\DefenseOfConsolas.AssemblyInfoInputs.cache
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\DefenseOfConsolas\obj\Debug\net6.0\DefenseOfConsolas.AssemblyInfo.cs
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\DefenseOfConsolas\obj\Debug\net6.0\DefenseOfConsolas.csproj.CoreCompileInputs.cache
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\DefenseOfConsolas\obj\Debug\net6.0\DefenseOfConsolas.dll
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\DefenseOfConsolas\obj\Debug\net6.0\refint\DefenseOfConsolas.dll
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\DefenseOfConsolas\obj\Debug\net6.0\DefenseOfConsolas.pdb
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\DefenseOfConsolas\obj\Debug\net6.0\DefenseOfConsolas.genruntimeconfig.cache
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\DefenseOfConsolas\obj\Debug\net6.0\ref\DefenseOfConsolas.dll
