@@ -1,0 +1,15 @@
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\MagicCannon\bin\Debug\net8.0\MagicCannon.exe
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\MagicCannon\bin\Debug\net8.0\MagicCannon.deps.json
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\MagicCannon\bin\Debug\net8.0\MagicCannon.runtimeconfig.json
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\MagicCannon\bin\Debug\net8.0\MagicCannon.dll
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\MagicCannon\bin\Debug\net8.0\MagicCannon.pdb
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\MagicCannon\obj\Debug\net8.0\MagicCannon.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\MagicCannon\obj\Debug\net8.0\MagicCannon.AssemblyInfoInputs.cache
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\MagicCannon\obj\Debug\net8.0\MagicCannon.AssemblyInfo.cs
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\MagicCannon\obj\Debug\net8.0\MagicCannon.csproj.CoreCompileInputs.cache
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\MagicCannon\obj\Debug\net8.0\MagicCannon.sourcelink.json
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\MagicCannon\obj\Debug\net8.0\MagicCannon.dll
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\MagicCannon\obj\Debug\net8.0\refint\MagicCannon.dll
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\MagicCannon\obj\Debug\net8.0\MagicCannon.pdb
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\MagicCannon\obj\Debug\net8.0\MagicCannon.genruntimeconfig.cache
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\MagicCannon\obj\Debug\net8.0\ref\MagicCannon.dll

@@ -1,0 +1,15 @@
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\CSharpPlayersGuide2025\bin\Debug\net6.0\CSharpPlayersGuide2025.exe
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\CSharpPlayersGuide2025\bin\Debug\net6.0\CSharpPlayersGuide2025.deps.json
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\CSharpPlayersGuide2025\bin\Debug\net6.0\CSharpPlayersGuide2025.runtimeconfig.json
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\CSharpPlayersGuide2025\bin\Debug\net6.0\CSharpPlayersGuide2025.dll
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\CSharpPlayersGuide2025\bin\Debug\net6.0\CSharpPlayersGuide2025.pdb
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\CSharpPlayersGuide2025\obj\Debug\net6.0\CSharpPlayersGuide2025.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\CSharpPlayersGuide2025\obj\Debug\net6.0\CSharpPlayersGuide2025.AssemblyInfoInputs.cache
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\CSharpPlayersGuide2025\obj\Debug\net6.0\CSharpPlayersGuide2025.AssemblyInfo.cs
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\CSharpPlayersGuide2025\obj\Debug\net6.0\CSharpPlayersGuide2025.csproj.CoreCompileInputs.cache
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\CSharpPlayersGuide2025\obj\Debug\net6.0\CSharpPlayersGuide2025.sourcelink.json
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\CSharpPlayersGuide2025\obj\Debug\net6.0\CSharpPlayersGuide2025.dll
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\CSharpPlayersGuide2025\obj\Debug\net6.0\refint\CSharpPlayersGuide2025.dll
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\CSharpPlayersGuide2025\obj\Debug\net6.0\CSharpPlayersGuide2025.pdb
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\CSharpPlayersGuide2025\obj\Debug\net6.0\CSharpPlayersGuide2025.genruntimeconfig.cache
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\CSharpPlayersGuide2025\obj\Debug\net6.0\ref\CSharpPlayersGuide2025.dll

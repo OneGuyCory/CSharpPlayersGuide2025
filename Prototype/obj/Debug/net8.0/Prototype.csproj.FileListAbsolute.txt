@@ -1,0 +1,15 @@
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\Prototype\bin\Debug\net8.0\Prototype.exe
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\Prototype\bin\Debug\net8.0\Prototype.deps.json
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\Prototype\bin\Debug\net8.0\Prototype.runtimeconfig.json
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\Prototype\bin\Debug\net8.0\Prototype.dll
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\Prototype\bin\Debug\net8.0\Prototype.pdb
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\Prototype\obj\Debug\net8.0\Prototype.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\Prototype\obj\Debug\net8.0\Prototype.AssemblyInfoInputs.cache
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\Prototype\obj\Debug\net8.0\Prototype.AssemblyInfo.cs
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\Prototype\obj\Debug\net8.0\Prototype.csproj.CoreCompileInputs.cache
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\Prototype\obj\Debug\net8.0\Prototype.sourcelink.json
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\Prototype\obj\Debug\net8.0\Prototype.dll
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\Prototype\obj\Debug\net8.0\refint\Prototype.dll
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\Prototype\obj\Debug\net8.0\Prototype.pdb
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\Prototype\obj\Debug\net8.0\Prototype.genruntimeconfig.cache
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\Prototype\obj\Debug\net8.0\ref\Prototype.dll

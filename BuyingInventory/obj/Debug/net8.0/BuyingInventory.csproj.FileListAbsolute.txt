@@ -1,0 +1,15 @@
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\BuyingInventory\bin\Debug\net8.0\BuyingInventory.exe
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\BuyingInventory\bin\Debug\net8.0\BuyingInventory.deps.json
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\BuyingInventory\bin\Debug\net8.0\BuyingInventory.runtimeconfig.json
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\BuyingInventory\bin\Debug\net8.0\BuyingInventory.dll
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\BuyingInventory\bin\Debug\net8.0\BuyingInventory.pdb
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\BuyingInventory\obj\Debug\net8.0\BuyingInventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\BuyingInventory\obj\Debug\net8.0\BuyingInventory.AssemblyInfoInputs.cache
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\BuyingInventory\obj\Debug\net8.0\BuyingInventory.AssemblyInfo.cs
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\BuyingInventory\obj\Debug\net8.0\BuyingInventory.csproj.CoreCompileInputs.cache
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\BuyingInventory\obj\Debug\net8.0\BuyingInventory.sourcelink.json
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\BuyingInventory\obj\Debug\net8.0\BuyingInventory.dll
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\BuyingInventory\obj\Debug\net8.0\refint\BuyingInventory.dll
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\BuyingInventory\obj\Debug\net8.0\BuyingInventory.pdb
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\BuyingInventory\obj\Debug\net8.0\BuyingInventory.genruntimeconfig.cache
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\BuyingInventory\obj\Debug\net8.0\ref\BuyingInventory.dll

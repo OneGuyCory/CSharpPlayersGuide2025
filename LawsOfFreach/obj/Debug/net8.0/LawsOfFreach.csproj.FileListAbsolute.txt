@@ -1,0 +1,15 @@
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\LawsOfFreach\bin\Debug\net8.0\LawsOfFreach.exe
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\LawsOfFreach\bin\Debug\net8.0\LawsOfFreach.deps.json
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\LawsOfFreach\bin\Debug\net8.0\LawsOfFreach.runtimeconfig.json
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\LawsOfFreach\bin\Debug\net8.0\LawsOfFreach.dll
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\LawsOfFreach\bin\Debug\net8.0\LawsOfFreach.pdb
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\LawsOfFreach\obj\Debug\net8.0\LawsOfFreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\LawsOfFreach\obj\Debug\net8.0\LawsOfFreach.AssemblyInfoInputs.cache
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\LawsOfFreach\obj\Debug\net8.0\LawsOfFreach.AssemblyInfo.cs
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\LawsOfFreach\obj\Debug\net8.0\LawsOfFreach.csproj.CoreCompileInputs.cache
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\LawsOfFreach\obj\Debug\net8.0\LawsOfFreach.sourcelink.json
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\LawsOfFreach\obj\Debug\net8.0\LawsOfFreach.dll
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\LawsOfFreach\obj\Debug\net8.0\refint\LawsOfFreach.dll
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\LawsOfFreach\obj\Debug\net8.0\LawsOfFreach.pdb
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\LawsOfFreach\obj\Debug\net8.0\LawsOfFreach.genruntimeconfig.cache
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\LawsOfFreach\obj\Debug\net8.0\ref\LawsOfFreach.dll

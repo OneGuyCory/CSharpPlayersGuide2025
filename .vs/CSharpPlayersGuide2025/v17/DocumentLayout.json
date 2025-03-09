@@ -1,0 +1,82 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CSharp2025\\CSharpPlayersGuide\\CSharpPlayersGuide2025\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F95F0C8D-87B6-4174-93C6-15765DDB66B8}|Watchtower\\Watchtower.csproj|c:\\csharp2025\\csharpplayersguide\\csharpplayersguide2025\\watchtower\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F95F0C8D-87B6-4174-93C6-15765DDB66B8}|Watchtower\\Watchtower.csproj|solutionrelative:watchtower\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F95F0C8D-87B6-4174-93C6-15765DDB66B8}|Watchtower\\Watchtower.csproj|c:\\csharp2025\\csharpplayersguide\\csharpplayersguide2025\\watchtower\\watchtower.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{F95F0C8D-87B6-4174-93C6-15765DDB66B8}|Watchtower\\Watchtower.csproj|solutionrelative:watchtower\\watchtower.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B9DCBAE-0A1C-4B55-A8B9-1B78DC41E33D}|CSharpPlayersGuide2025\\CSharpPlayersGuide2025.csproj|c:\\csharp2025\\csharpplayersguide\\csharpplayersguide2025\\csharpplayersguide2025\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B9DCBAE-0A1C-4B55-A8B9-1B78DC41E33D}|CSharpPlayersGuide2025\\CSharpPlayersGuide2025.csproj|solutionrelative:csharpplayersguide2025\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Watchtower",
+              "DocumentMoniker": "C:\\CSharp2025\\CSharpPlayersGuide\\CSharpPlayersGuide2025\\Watchtower\\Watchtower.csproj",
+              "RelativeDocumentMoniker": "Watchtower\\Watchtower.csproj",
+              "ToolTip": "C:\\CSharp2025\\CSharpPlayersGuide\\CSharpPlayersGuide2025\\Watchtower\\Watchtower.csproj",
+              "RelativeToolTip": "Watchtower\\Watchtower.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-06T17:40:10.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\CSharp2025\\CSharpPlayersGuide\\CSharpPlayersGuide2025\\Watchtower\\Program.cs",
+              "RelativeDocumentMoniker": "Watchtower\\Program.cs",
+              "ToolTip": "C:\\CSharp2025\\CSharpPlayersGuide\\CSharpPlayersGuide2025\\Watchtower\\Program.cs",
+              "RelativeToolTip": "Watchtower\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T17:10:38.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\CSharp2025\\CSharpPlayersGuide\\CSharpPlayersGuide2025\\CSharpPlayersGuide2025\\Program.cs",
+              "RelativeDocumentMoniker": "CSharpPlayersGuide2025\\Program.cs",
+              "ToolTip": "C:\\CSharp2025\\CSharpPlayersGuide\\CSharpPlayersGuide2025\\CSharpPlayersGuide2025\\Program.cs",
+              "RelativeToolTip": "CSharpPlayersGuide2025\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T17:06:41.372Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

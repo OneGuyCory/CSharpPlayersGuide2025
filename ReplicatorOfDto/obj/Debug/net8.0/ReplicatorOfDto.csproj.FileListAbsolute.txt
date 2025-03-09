@@ -1,0 +1,15 @@
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\ReplicatorOfDto\bin\Debug\net8.0\ReplicatorOfDto.exe
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\ReplicatorOfDto\bin\Debug\net8.0\ReplicatorOfDto.deps.json
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\ReplicatorOfDto\bin\Debug\net8.0\ReplicatorOfDto.runtimeconfig.json
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\ReplicatorOfDto\bin\Debug\net8.0\ReplicatorOfDto.dll
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\ReplicatorOfDto\bin\Debug\net8.0\ReplicatorOfDto.pdb
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\ReplicatorOfDto\obj\Debug\net8.0\ReplicatorOfDto.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\ReplicatorOfDto\obj\Debug\net8.0\ReplicatorOfDto.AssemblyInfoInputs.cache
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\ReplicatorOfDto\obj\Debug\net8.0\ReplicatorOfDto.AssemblyInfo.cs
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\ReplicatorOfDto\obj\Debug\net8.0\ReplicatorOfDto.csproj.CoreCompileInputs.cache
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\ReplicatorOfDto\obj\Debug\net8.0\ReplicatorOfDto.sourcelink.json
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\ReplicatorOfDto\obj\Debug\net8.0\ReplicatorOfDto.dll
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\ReplicatorOfDto\obj\Debug\net8.0\refint\ReplicatorOfDto.dll
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\ReplicatorOfDto\obj\Debug\net8.0\ReplicatorOfDto.pdb
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\ReplicatorOfDto\obj\Debug\net8.0\ReplicatorOfDto.genruntimeconfig.cache
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\ReplicatorOfDto\obj\Debug\net8.0\ref\ReplicatorOfDto.dll
