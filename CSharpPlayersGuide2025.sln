@@ -29,6 +29,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReplicatorOfDto", "Replicat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LawsOfFreach", "LawsOfFreach\LawsOfFreach.csproj", "{28A6BAB9-5967-43CC-AE1E-94B69F51840E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TakingANumber", "TakingANumber\TakingANumber.csproj", "{2378710E-9A00-4FFB-AB41-75542ACED9CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HuntingtheManticore", "HuntingtheManticore\HuntingtheManticore.csproj", "{A0D50311-1E09-41BD-A0D1-D33E588B6964}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +91,14 @@ Global
 		{28A6BAB9-5967-43CC-AE1E-94B69F51840E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{28A6BAB9-5967-43CC-AE1E-94B69F51840E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{28A6BAB9-5967-43CC-AE1E-94B69F51840E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2378710E-9A00-4FFB-AB41-75542ACED9CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2378710E-9A00-4FFB-AB41-75542ACED9CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2378710E-9A00-4FFB-AB41-75542ACED9CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2378710E-9A00-4FFB-AB41-75542ACED9CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0D50311-1E09-41BD-A0D1-D33E588B6964}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0D50311-1E09-41BD-A0D1-D33E588B6964}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0D50311-1E09-41BD-A0D1-D33E588B6964}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0D50311-1E09-41BD-A0D1-D33E588B6964}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

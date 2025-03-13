@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CSharpPlayersGuide2025")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d7d88e8515c7b04b64337ddb78a3a353a309772a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8bb232e6c6e3a4f3e05332cbebdcf6b0eb462e45")]
 [assembly: System.Reflection.AssemblyProductAttribute("CSharpPlayersGuide2025")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CSharpPlayersGuide2025")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

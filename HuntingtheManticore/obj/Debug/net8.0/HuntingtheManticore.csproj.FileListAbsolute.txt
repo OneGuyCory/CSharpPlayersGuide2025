@@ -1,0 +1,15 @@
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\HuntingtheManticore\bin\Debug\net8.0\HuntingtheManticore.exe
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\HuntingtheManticore\bin\Debug\net8.0\HuntingtheManticore.deps.json
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\HuntingtheManticore\bin\Debug\net8.0\HuntingtheManticore.runtimeconfig.json
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\HuntingtheManticore\bin\Debug\net8.0\HuntingtheManticore.dll
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\HuntingtheManticore\bin\Debug\net8.0\HuntingtheManticore.pdb
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\HuntingtheManticore\obj\Debug\net8.0\HuntingtheManticore.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\HuntingtheManticore\obj\Debug\net8.0\HuntingtheManticore.AssemblyInfoInputs.cache
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\HuntingtheManticore\obj\Debug\net8.0\HuntingtheManticore.AssemblyInfo.cs
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\HuntingtheManticore\obj\Debug\net8.0\HuntingtheManticore.csproj.CoreCompileInputs.cache
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\HuntingtheManticore\obj\Debug\net8.0\HuntingtheManticore.sourcelink.json
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\HuntingtheManticore\obj\Debug\net8.0\HuntingtheManticore.dll
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\HuntingtheManticore\obj\Debug\net8.0\refint\HuntingtheManticore.dll
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\HuntingtheManticore\obj\Debug\net8.0\HuntingtheManticore.pdb
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\HuntingtheManticore\obj\Debug\net8.0\HuntingtheManticore.genruntimeconfig.cache
+C:\CSharp2025\CSharpPlayersGuide\CSharpPlayersGuide2025\HuntingtheManticore\obj\Debug\net8.0\ref\HuntingtheManticore.dll
